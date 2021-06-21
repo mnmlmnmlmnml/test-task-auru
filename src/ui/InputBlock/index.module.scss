@@ -1,0 +1,21 @@
+.block {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.title {
+  font-size: 21px;
+  line-height: 19px;
+  text-align: left;
+  width: 22%;
+}
+
+.desc {
+  font-size: 12px;
+  line-height: 20px;
+  margin-left: 18px;
+  color: #999999;
+  text-align: left;
+}
